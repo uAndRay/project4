@@ -1,0 +1,23 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uAndRay/newpapka.git"
+  },
+  "author": "Andrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uAndRay/newpapka/issues"
+  },
+  "homepage": "https://github.com/uAndRay/newpapka#readme",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
